@@ -21,3 +21,7 @@
 
 ---
 © 2025 Boince. All rights reserved.
+# Make edits to files, then:
+git add .
+git commit -m "Describe updates (e.g. Added contact form)"
+git push
